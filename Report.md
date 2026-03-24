@@ -25,8 +25,9 @@ Headless CMS đang là xu hướng kiến trúc phổ biến hiện nay. Trong m
 
 ---
 **Tài liệu tham khảo:**
-[1] Adobe Commerce. *Architecture overview*: https://developer.adobe.com/commerce/php/architecture/
-[2] Drupal.org. *Understanding Drupal*: https://www.drupal.org/docs/understanding-drupal
-[3] NGINX. *Architecture overview*: https://www.nginx.com/resources/library/infographic-nginx-architecture/
-[4] Elastic. *What is Elasticsearch?*: https://www.elastic.co/what-is/elasticsearch
-[5] Jamstack. *Headless CMS Guide*: https://jamstack.org/headless-cms/
+
+1. Adobe Commerce. *Architecture overview*: https://developer.adobe.com/commerce/php/architecture/
+2. Drupal.org. *Understanding Drupal*: https://www.drupal.org/docs/understanding-drupal
+3. NGINX. *Architecture overview*: https://www.nginx.com/resources/library/infographic-nginx-architecture/
+4. Elastic. *What is Elasticsearch?*: https://www.elastic.co/what-is/elasticsearch
+5. Jamstack. *Headless CMS Guide*: https://jamstack.org/headless-cms/
